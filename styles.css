@@ -1,0 +1,96 @@
+#title{
+  background-color: #fff;
+
+
+}
+
+
+body{
+  font-family: 'Montserrat',sans-serif;
+  text-align: center;
+
+}
+h1{
+  font-family: 'Montserrat-Black', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h2{
+  font-size: 3.5rem;
+  font-family: Montserrat-bold,sans-serif;
+  line-height: 1.5;
+}
+h3{
+  font-size: 1.5rem ;
+  font-family: Montserrat-bold, sans-serif;
+}
+
+button{
+  margin-right: 600px;
+}
+
+.navbar-items{
+
+}
+
+.row{
+  height: 31em;
+}
+.container-fluid{
+  padding: 0% 0%;
+}
+
+.rotate{
+   transform: rotate(25deg);
+   height: 60%;
+
+}
+
+/* Navigation Bar */
+
+.navbar{
+  padding-right: 1rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.5rem;
+  font-family: Montserrat-light;
+  color: Black;
+
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+}
+
+.btn{
+  margin: 5% 3% 2% 0;
+}
+
+.search-bar{
+    background-color: #3294de;
+
+}
+
+.Ticker-News{
+  padding: 50px 300px;
+}
+.microsoft-img{
+  max-width: 100%;
+  height: auto;
+
+}
+
+.article-img{
+  max-width: 100%;
+  height: auto;
+}
+
+#features{
+  padding: 7% 15%;
+}
